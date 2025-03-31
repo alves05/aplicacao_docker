@@ -1,5 +1,12 @@
 # Previsão de Aluguel - Dockerizado
 
+- **Equipe**:
+   - Danilo Pontes;
+   - Saulo Bernardo;
+   - Wiliams Alves.
+
+## Sobre o projeto
+
 Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base em suas características, utilizando um modelo de regressão. A aplicação é desenvolvida em Python e utiliza o framework Streamlit para criação de uma interface interativa. O foco principal é a conteinerização da aplicação utilizando Docker e Docker Compose.
 
 ## Tecnologias Utilizadas
@@ -10,7 +17,6 @@ Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base 
 - Scikit-Learn
 - Pickle
 - Docker
-- Docker Compose
 
 ## Estrutura do Projeto
 
@@ -26,7 +32,8 @@ Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base 
 |-- Dockerfile  
 |-- compose.yml  
 |-- requirements.txt  
-|-- README.md  
+|-- README.md
+|-- LICENSE  
 
 ```
 
@@ -61,5 +68,5 @@ Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença GNU.
 
