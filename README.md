@@ -7,7 +7,7 @@
 
 ## Sobre o projeto
 
-Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base em suas características, utilizando um modelo de regressão. A aplicação é desenvolvida em Python e utiliza o framework Streamlit para criação de uma interface interativa. O foco principal é a conteinerização da aplicação utilizando Docker e Docker Compose.
+Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base em suas características, utilizando um modelo de regressão. A aplicação é desenvolvida em Python e utiliza o framework Streamlit para criação de uma interface interativa. O foco principal é a conteinerização da aplicação utilizando Docker.
 
 ## Tecnologias Utilizadas
 
