@@ -50,12 +50,15 @@ Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base 
    docker compose up --build
    ```
 
-3. **Acesse a aplicação no navegador:**
+3. **Copie e cole o endereço no navegador ou clique no link IP no Docker Desktop:**
    ```
    http://localhost:8501
    ```
 
-4. **Para parar os contêineres:**
+![docker](/imagens/tela-docker-desktop.png)
+
+
+4. **Para excluir os contêineres:**
    ```bash
    docker compose down
    ```
@@ -63,7 +66,12 @@ Este projeto tem como objetivo prever o valor do aluguel de um imóvel com base 
 ## Como Usar
 
 1. Utilize os filtros laterais para inserir as características do imóvel desejado.
+
+![filtros](/imagens/filtros-aplicacao.png)
+
 2. Clique no botão **CONSULTAR** para obter a previsão do aluguel.
+
+![resultado](/imagens/resultado-consulta.png)
 
 
 ## Licença
